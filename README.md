@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anilbeesetti
 - 👀 I’m interested in linux, android
-- 🌱 I’m currently learning networking
+- 🌱 I’m currently learning network fundamentals
 - 💞️ I’m looking to collaborate on android projects
 - 📫 How to reach me anilbeesetti10@gmail.com
 
